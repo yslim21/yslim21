@@ -23,8 +23,6 @@
   
   ![youngseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yslim21&hide=stars&hide_rank=true&count_private=true&show_icons=true&theme=transparent&title_color=000000&icon_color=fff8ce&text_color=fff8ce)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslim21&show_icons=true&layout=compact&title_color=000000&text_color=fff8ce)](https://github.com/yslim21)
-
 </div>
 
 </div>
