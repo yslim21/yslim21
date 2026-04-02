@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/yslim21?pet-id=1" width="300" height="120"/>
+    <img src="https://render.gitanimals.org/farms/yslim21"/>
 </a>
 
 ### 💻 Tech Stack 💻
@@ -18,11 +18,5 @@
 <a href="https://xohalox.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?labelColor=whitestyle=for-the-badge&logo=tistory&logoColor=fff8ce">
 </br>
 </br>
-
-<div style="display:flex; flex-direction:column;">
-  
-  ![youngseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yslim21&hide=stars&hide_rank=true&count_private=true&show_icons=true&theme=transparent&title_color=000000&icon_color=fff8ce&text_color=fff8ce)
-
-</div>
 
 </div>
