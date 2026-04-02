@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=120&section=header&text=youngseo's%20git%20&fontSize=60&fontColor=fff8ce"/>
-</br>
-</br>
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/lines/yslim21?pet-id=1" width="300" height="120"/>
+</a>
 
+```html
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+```  
 ### 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height: 26px; margin: 3px;">
